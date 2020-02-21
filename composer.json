@@ -12,7 +12,10 @@
     },
     "require": {
         "wanfeiyy/dd": "^1.0",
-        "php-curl-class/php-curl-class": "^8.6"
+        "php-curl-class/php-curl-class": "^8.6",
+        "php": ">=5.3.3",
+        "psr/http-message": "^1.0",
+        "psr/log": "^1.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
