@@ -1,5 +1,6 @@
 {
     "name": "lhbs1/framework",
+    "license": "MIT",
     "type": "project",
     "description": "A simple framework PHP",
 	"autoload": {
