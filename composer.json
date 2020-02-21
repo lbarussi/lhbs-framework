@@ -10,6 +10,13 @@
             "Config\\": "Config"
         }
     },
+    "authors": [
+        {
+            "name": "Leonardo Henrique Barussi",
+            "email": "lhbs.desenv@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "wanfeiyy/dd": "^1.0",
         "php-curl-class/php-curl-class": "^8.6",

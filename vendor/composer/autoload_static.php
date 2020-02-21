@@ -22,6 +22,11 @@ class ComposerStaticInit5392caee92861008633c0f00b073f0bd
         array (
             'Routes\\' => 7,
         ),
+        'P' => 
+        array (
+            'Psr\\Log\\' => 8,
+            'Psr\\Http\\Message\\' => 17,
+        ),
         'D' => 
         array (
             'Dd\\' => 3,
@@ -49,6 +54,14 @@ class ComposerStaticInit5392caee92861008633c0f00b073f0bd
         'Routes\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Routes',
+        ),
+        'Psr\\Log\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'Psr\\Http\\Message\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Dd\\' => 
         array (
