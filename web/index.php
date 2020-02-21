@@ -44,7 +44,7 @@
                     $metodo->$met();
                 }
             }else{
-                include_once '../app/Controller/Controller.php';
+                include_once '../App/Controller/Controller.php';
                 response()->message(404, 'Solicitação não encontrada.');
             }
             
