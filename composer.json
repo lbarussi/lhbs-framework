@@ -1,5 +1,6 @@
 {
     "name": "lhbs1/framework",
+    "type": "project",
     "description": "A simple framework PHP",
 	"autoload": {
         "psr-4": {
@@ -12,5 +13,7 @@
         "wanfeiyy/dd": "^1.0",
         "php-curl-class/php-curl-class": "^8.6",
         "php": "^7.2"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
