@@ -2,7 +2,7 @@
     namespace Routes;
     use Config\Route;
 
-    class web{
+    class Web{
         public function process(){
             Route::get('/', 'AutenticarController@viewLogin')->name('view.login');
             Route::post('auth', 'AutenticarController@authLogin')->name('post.auth');
